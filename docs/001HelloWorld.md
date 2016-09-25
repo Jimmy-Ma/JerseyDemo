@@ -16,7 +16,7 @@
 
 <li>Eclipse中创建一个 Dynamic Web Project并设置文件编码, 本例为“JerseyDemo”</li>
 
-![](../imgs/0000.png)
+![](../imgs/0000.jpg)
 
 <li>设置项目自动编译</li>
 
