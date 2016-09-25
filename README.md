@@ -1,4 +1,4 @@
 # Jersey学习笔记
 
-[001.HelloWorld](docs/001.HelloWorld.md)
+[001HelloWorld](docs/001HelloWorld.md)
 

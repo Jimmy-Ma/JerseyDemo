@@ -16,21 +16,21 @@
 
 <li>Eclipse中创建一个 Dynamic Web Project并设置文件编码, 本例为“JerseyDemo”</li>
 
-![Alt text](../imgs/001.HelloWorld/0000.png)
+![](../imgs/001.HelloWorld/0000.png)
 
 <li>设置项目自动编译</li>
 
-![Alt text](../imgs/001.HelloWorld/0001.png)
+![](../imgs/001.HelloWorld/0001.png)
 
 <li>解压jaxrs-ri-2.23.2.zip，将api、ext、lib文件夹下的jar包都拷贝到项目的lib下</li>
 
-![Alt text](../imgs/001.HelloWorld/001.png)
+![](../imgs/001.HelloWorld/001.png)
 
-![Alt text](../imgs/001.HelloWorld/002.png)
+![](../imgs/001.HelloWorld/002.png)
 
 <li>按照各人习惯建好包，本例为“com.jimmy.jersey.resources”</li>
 
-![Alt text](../imgs/001.HelloWorld/003.png)
+![](../imgs/001.HelloWorld/003.png)
 
 <li>在resources包下建一个class“HelloResource”</li>
 
@@ -86,27 +86,27 @@
 
 <li>在Eclipse上配置Tomcat Server</li>
 
-![Alt text](../imgs/001.HelloWorld/004.png)
+![](../imgs/001.HelloWorld/004.png)
 
-![Alt text](../imgs/001.HelloWorld/005.png)
+![](../imgs/001.HelloWorld/005.png)
 
-![Alt text](../imgs/001.HelloWorld/006.png)
+![](../imgs/001.HelloWorld/006.png)
 
 如果Server Locations是灰色无法编辑状态，需要Remove所有项目并Clean后方能操作
 
-![Alt text](../imgs/001.HelloWorld/007.png)
+![](../imgs/001.HelloWorld/007.png)
 
 <li>部署到Tomcat Server运行</li>
 
-![Alt text](../imgs/001.HelloWorld/008.png)
+![](../imgs/001.HelloWorld/008.png)
 
 <li>浏览器输入要访问的uri地址http://localhost:8080/JerseyDemo/rest/hello，输出Hello World!</li>
 
-![Alt text](../imgs/001.HelloWorld/009.png)
+![](../imgs/001.HelloWorld/009.png)
 
 <li>浏览器输入要访问的uri地址http://localhost:8080/JerseyDemo/rest/hello/Jimmy，输出Hello Jimmy</li>
 
-![Alt text](../imgs/001.HelloWorld/010.png)
+![](../imgs/001.HelloWorld/010.png)
 
 </ol>
 
