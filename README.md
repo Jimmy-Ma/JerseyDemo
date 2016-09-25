@@ -2,4 +2,4 @@
 
 [001.HelloWorld](docs/001.HelloWorld.md)
 
-![](imgs/001HelloWorld/0001.png)
+![](imgs/001.HelloWorld/0001.png)
